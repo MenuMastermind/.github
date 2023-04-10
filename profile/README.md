@@ -1,4 +1,43 @@
-<div class="relative flex w-[calc(100%-50px)] flex-col gap-1 md:gap-3 lg:w-[calc(100%-115px)]"><div class="flex flex-grow flex-col gap-3"><div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap"><div class="markdown prose w-full break-words dark:prose-invert dark">
-  
-  <h1>Menumastermind.
-</h1><p>Menumastermind is an easy-to-use platform designed to help restaurant owners create and manage their digital presence without the need for a custom website. With a simple form-based interface, you can build your menu, set prices, and manage orders seamlessly. DineMagnet offers a variety of features to streamline your restaurant operations.</p><h2>Features</h2><h3>Menu Builder</h3><ul><li>Create and edit your menu using our straightforward form-based interface</li><li>Add menu sections and items with ease</li><li>Manage item prices and descriptions effortlessly</li></ul><h3>Customer Ordering and Seating System</h3><ul><li>Provide customers with a direct link to place orders online</li><li>Implement a queue system to estimate order and seating ETAs</li><li>Automatically send text reminders to customers when their seat is ready</li></ul><h3>Order Management System (Pickup/Delivery)</h3><ul><li>Receive notifications for incoming orders</li><li>Manage pickup and delivery orders with ease</li><li>View order details and status updates within the app dashboard</li></ul><h3>Analytics and Insights</h3><ul><li>Gain insights into your best-selling products</li><li>Analyze daily and weekly sales trends</li><li>Make informed decisions to optimize your menu and operations</li></ul><h3>Sales Page and Support</h3><ul><li>Showcase your menu on a dedicated sales page</li><li>Offer customer support with a simple chat feature</li><li>Schedule meetings using Calendly integration</li></ul><h2>Future Considerations</h2><ul><li>Implement a system for managing refills and promo codes</li><li>Continue refining and expanding features based on user feedback</li></ul></div></div></div><div class="flex justify-between"><div class="text-gray-400 flex self-end lg:self-center justify-center mt-2 gap-3 md:gap-4 lg:gap-1 lg:absolute lg:top-0 lg:translate-x-full lg:right-0 lg:mt-0 lg:pl-2 visible"><button class="p-1 rounded-md hover:bg-gray-100 hover:text-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-200 disabled:dark:hover:text-gray-400"><svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path></svg></button><button class="p-1 rounded-md hover:bg-gray-100 hover:text-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-gray-200 disabled:dark:hover:text-gray-400"><svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" class="h-4 w-4" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M10 15v4a3 3 0 0 0 3 3l4-9V2H5.72a2 2 0 0 0-2 1.7l-1.38 9a2 2 0 0 0 2 2.3zm7-13h2.67A2.31 2.31 0 0 1 22 4v7a2.31 2.31 0 0 1-2.33 2H17"></path></svg></button></div></div></div>
+Menumastermind.
+===============
+
+Menumastermind is an easy-to-use platform designed to help restaurant owners create and manage their digital presence without the need for a custom website. With a simple form-based interface, you can build your menu, set prices, and manage orders seamlessly. DineMagnet offers a variety of features to streamline your restaurant operations.
+
+Features
+--------
+
+### Menu Builder
+
+*   Create and edit your menu using our straightforward form-based interface
+*   Add menu sections and items with ease
+*   Manage item prices and descriptions effortlessly
+
+### Customer Ordering and Seating System
+
+*   Provide customers with a direct link to place orders online
+*   Implement a queue system to estimate order and seating ETAs
+*   Automatically send text reminders to customers when their seat is ready
+
+### Order Management System (Pickup/Delivery)
+
+*   Receive notifications for incoming orders
+*   Manage pickup and delivery orders with ease
+*   View order details and status updates within the app dashboard
+
+### Analytics and Insights
+
+*   Gain insights into your best-selling products
+*   Analyze daily and weekly sales trends
+*   Make informed decisions to optimize your menu and operations
+
+### Sales Page and Support
+
+*   Showcase your menu on a dedicated sales page
+*   Offer customer support with a simple chat feature
+*   Schedule meetings using Calendly integration
+
+Future Considerations
+---------------------
+
+*   Implement a system for managing refills and promo codes
+*   Continue refining and expanding features based on user feedback
