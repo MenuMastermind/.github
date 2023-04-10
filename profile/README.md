@@ -12,6 +12,10 @@ Features
 *   Add menu sections and items with ease
 *   Manage item prices and descriptions effortlessly
 
+### AI Logo Designer 
+
+*   Generate unique cool logo designs for your restraunt
+
 ### Customer Ordering and Seating System
 
 *   Provide customers with a direct link to place orders online
